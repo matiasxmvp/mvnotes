@@ -1,0 +1,1 @@
+ALTER TABLE study_notes ADD COLUMN tags TEXT NOT NULL DEFAULT '[]';

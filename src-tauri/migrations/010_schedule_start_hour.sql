@@ -1,0 +1,1 @@
+ALTER TABLE settings ADD COLUMN schedule_start_hour INTEGER NOT NULL DEFAULT 7;

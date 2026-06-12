@@ -1,0 +1,1 @@
+ALTER TABLE settings ADD COLUMN mic_device_id TEXT NOT NULL DEFAULT '';

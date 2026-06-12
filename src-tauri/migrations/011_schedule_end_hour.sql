@@ -1,0 +1,1 @@
+ALTER TABLE settings ADD COLUMN schedule_end_hour INTEGER NOT NULL DEFAULT 22;

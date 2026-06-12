@@ -1,0 +1,15 @@
+allowBuild: core-js,esbuild
+allowBuilds:
+  ',': true
+  '-': true
+  b: true
+  c: true
+  d: true
+  e: true
+  i: true
+  j: true
+  l: true
+  o: true
+  r: true
+  s: true
+  u: true
