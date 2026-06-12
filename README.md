@@ -31,7 +31,7 @@ Construida con Tauri 2, React 19, TypeScript y SQLite. Todo se guarda **localmen
 
 ```powershell
 # 1. Clona el repositorio
-git clone https://github.com/<tu-usuario>/mvnotes.git
+git clone https://github.com/matiasxmvp/mvnotes.git
 cd mvnotes
 
 # 2. Instala las dependencias
